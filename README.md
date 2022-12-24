@@ -1,4 +1,8 @@
 # hola_harry
-"Hello, World" gem created following the RubyGems "Make your own gem" guide.
+A simple "Hello, World" gem.
 
-The guide can be found [here](https://guides.rubygems.org/make-your-own-gem/).
+This gem was created following the [RubyGems "Make your own gem" guide](https://guides.rubygems.org/make-your-own-gem/).
+
+### Note from Author
+
+This is my first gem! :smile: :tada:
