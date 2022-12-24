@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "hola_harry"
-  s.version     = "0.0.0"
+  s.version     = "0.1.0"
+  s.executables << "hola_harry"
   s.summary     = "Hola Harry!"
   s.description = "A simple 'hello world' gem created following the RubyGems 'make your own gem' guide."
   s.authors     = ["Harry Graham"]
