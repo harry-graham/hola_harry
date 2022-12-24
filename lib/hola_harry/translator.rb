@@ -6,9 +6,9 @@ class HolaHarry::Translator
   def hi
     case @language
     when "spanish"
-      "hola mundo"
+      "Hola mundo"
     else
-      "hello world"
+      "Hello world"
     end
   end
 end
