@@ -2,7 +2,3 @@
 A simple "Hello, World" gem.
 
 This gem was created following the [RubyGems "Make your own gem" guide](https://guides.rubygems.org/make-your-own-gem/).
-
-### Note from Author
-
-This is my first gem! :smile: :tada:
